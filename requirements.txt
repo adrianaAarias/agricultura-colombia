@@ -1,0 +1,7 @@
+jupyter
+plotly
+pandas
+seaborn
+geopy
+folium
+requests
